@@ -1,0 +1,14 @@
+Coca Cola,3.0,7,images\coke.jpeg
+Wonda Extra Presso,3.0,10,images\Wonda_Coffee_Extra_Presso.png
+100 Plus,3.2,8,images\100 plus.jpg
+Milo Ice,4.5,20,images\milo ice.jpg
+Pepsi,3.7,8,images\pepsi.jpg
+Sarsi,4.0,1,images\sarsi.png
+Monster Energy,10.7,9,images\monster energy.png
+Sprite,3.1,9,images\sprite.jpg
+Fanta Grape,3.3,7,images\fanta grape.jpg
+Fanta Orange,3.3,8,images\fanta orange.jpg
+Greek Yogurt,12.5,9,images\greek yogurt.png
+Spritzer,2.95,9,images\spritzer.png
+Goodday Full Cream Milk,3.8,9,images\goodday full cream milk.jpg
+Evian,6.0,12,images\evian.jpg
